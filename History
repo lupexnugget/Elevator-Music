@@ -1,0 +1,9 @@
+{
+  "name": "History",
+  "description": "Instrumental for Rich Brian Hi stor",
+  "author": "Rich Brian",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": True,
+  "ignore": []
+}
